@@ -1,0 +1,1 @@
+A travel-logging application where you can pin the locations you travel and share your reviews about that place to other users registered on app.
