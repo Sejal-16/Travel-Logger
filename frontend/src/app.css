@@ -26,3 +26,19 @@ label{
 .date{
     font-size: 12px;
 }
+form{
+    height: 250px;
+    width: 250px;
+    justify-content: space-between;
+    display : flex;
+    flex-direction: column;
+}
+input,textarea{
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+input::placeholder , textarea::placeholder{
+    font-size: 12px;
+    color:hsl(0, 4%, 66%);
+}
