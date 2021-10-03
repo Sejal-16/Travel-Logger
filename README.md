@@ -1,7 +1,15 @@
 # Travel Logger
 A travel-logging application where you can pin the locations you travel and share your reviews about that place to other users registered on app.
 
-# Getting Started 
+# Local Setup
+1. Clone 
+2. Go inside backend run ```npm install```
+3. Run ```npm start```
+4. Go inside frontend run ```npm install```
+5. Run ```npm start```
+
+Voila ! Your local setup is done.
+# How to start using travel logger?
 
 1. Register by clicking on register button
 2. Login
